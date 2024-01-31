@@ -39,21 +39,21 @@ As a data analyst tasked with leveraging sample data and a provided mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="" width="600">
+    <img src="https://github.com/Manshi-Rathour/Revenue-Insights/blob/main/mock%20up%20dashboard_atliq%20grands.png" width="600">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='' height="400">
+    <img src="https://github.com/Manshi-Rathour/Revenue-Insights/blob/main/Data_Model.png" height="400">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='' width="600">
+    <img src="https://github.com/Manshi-Rathour/Revenue-Insights/blob/main/Dashboard_img.png" width="600">
 </p>
 
 
